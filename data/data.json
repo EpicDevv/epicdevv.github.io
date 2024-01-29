@@ -47,6 +47,14 @@
       "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086",
       "description": "A juicy grilled chicken breast topped with lettuce, tomato, and mayo, served on a whole wheat bun.",
       "calorie": 1020
+    },
+    {
+      "id": "7",
+      "name": "New Mystery burger",
+      "price": 1099,
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1599&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Take yourself on a wild ride with this mystery",
+      "calorie": 10220
     }
   ]
 }
